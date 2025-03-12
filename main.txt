@@ -31,5 +31,22 @@ CPU占用60%左右
 mount.davfs http://[IP]:5244/dav/[Alist挂载路径] [本地挂载路径]
 
 
+![IMG](https://github.com/penxy/IMG/blob/master/Alist_Mount_Status.png)
 
 mount -t cifs //172.16.0.19/home3_pengxy /mnt/samba -o username=pxy,password=xxx,iocharset=utf8,port=445
+
+
+![Alist_Aliyun_token.png](https://www.helloimg.com/i/2025/03/12/67d0e18214b7e.png)
+![Alist_Aliyun.png](https://www.helloimg.com/i/2025/03/12/67d0e18228f0f.png)
+![aliy_download_speed.png](https://www.helloimg.com/i/2025/03/12/67d0e18257ca7.png)
+![Alist_Mount_Status.png](https://www.helloimg.com/i/2025/03/12/67d0e182a7547.png)
+![Alist_filesystem.png](https://www.helloimg.com/i/2025/03/12/67d0e183261c2.png)
+![aliy_upload_speed.png](https://www.helloimg.com/i/2025/03/12/67d0e1cc68d21.png)
+![cifs_samba.png](https://www.helloimg.com/i/2025/03/12/67d0e1cc9f6a8.png)
+![diff_samba_mount.png](https://www.helloimg.com/i/2025/03/12/67d0e1cc9958c.png)
+![mount_status.png](https://www.helloimg.com/i/2025/03/12/67d0e1cc93d21.png)
+![chmod.png](https://www.helloimg.com/i/2025/03/12/67d0e1ccc70ad.png)
+![IMG](https://github.com/penxy/IMG/blob/master/Alist_Mount_Status.png)
+![0f3690e29aeb0ee906e57c3637e51ea2.jpg](https://www.helloimg.com/i/2025/03/12/67d0e1596437a.jpg)
+![Alist_upload.png](https://www.helloimg.com/i/2025/03/12/67d0e12fd7cfa.png)
+![move_512M_webdav.png](https://www.helloimg.com/i/2025/03/12/67d0e20d64ec6.png)
