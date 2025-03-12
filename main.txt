@@ -1,0 +1,35 @@
+
+
+
+[阿里网盘token获取链接](https://easy-token.cooluc.com/)
+
+
+阿里云盘
+上传
+速度在80MB/s左右
+CPU占用40%左右
+
+下载
+速度在0.8MB/s左右
+CPU占用 < 10%
+
+百度网盘
+下载
+下载速度在0.6MB/s左右
+CPU占用 < 10%
+
+上传
+速度在70MB/s左右
+CPU占用60%左右
+
+
+上传大文件, 峰值会达到60%左右的CPU
+
+内存空间占用在60-180MB之间
+
+挂载方式
+mount.davfs http://[IP]:5244/dav/[Alist挂载路径] [本地挂载路径]
+
+
+
+mount -t cifs //172.16.0.19/home3_pengxy /mnt/samba -o username=pxy,password=xxx,iocharset=utf8,port=445
